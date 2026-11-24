@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/slothanabot/ridiculous-real-b/rank.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
 [![reward](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/slothanabot/ridiculous-real-b/reward.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
 
-A one-sentence startup pitch for make.fun's "Ridiculous at First Glance, Real by the Second" bounty: a Wi-Fi toaster that texts you when your bread is done — it sounds like a parody product, but it is real, and busy parents happily pay $49 to never burn breakfast again.
+A one-sentence startup pitch for make.fun's "Ridiculous at First Glance, Real by the Second" bounty: rental goats that mow your lawn for $30 a visit — it sounds like a farm joke, but suburbs pay because the herd weeds, fertilizes, and never needs gas.
 
 ## Run it
 
